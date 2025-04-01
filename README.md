@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me 
 
-  > My name is Mehdi Marzban, and I began my journey in programming in 2017 due to my strong passion for it. I pursued my studies in Computer Engineering (Software) at Shahid Chamran University of Ahvaz. Since 2020, I have been working professionally in JavaScript and have participated in various projects, including the Off-Begir project as a website designer, the Persian JavaScript project, and the Suspicious Operations Reporting and Risk Assessment project in the petrochemical industry, among others. Additionally, due to my great interest in JavaScript, I decided to learn its libraries and frameworks, such as React and Next.js, and focus on frontend development.
+  > My name is Mohammad Kolyaie, and I began my journey in programming in 2017 due to my strong passion for it. I pursued my studies in Computer Engineering (Software) at Shahid Chamran University of Ahvaz. Since 2020, I have been working professionally in JavaScript and have participated in various projects, including the Off-Begir project as a website designer, the Persian JavaScript project, and the Suspicious Operations Reporting and Risk Assessment project in the petrochemical industry, among others. Additionally, due to my great interest in JavaScript, I decided to learn its libraries and frameworks, such as React and Next.js, and focus on frontend development.
 
 ## 🚀 Skills
 
@@ -57,22 +57,19 @@
 
 <div align="center">
   <p>
-    <a href="https://github.com/MehhdiMarzban">
+    <a href="https://github.com/suron-dev">
       <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/mehdi-marzban-8851768b">
       <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:marzban72@gmail.com">
+    <a href="mailto:suronKoly@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="http://www.mehdi-marzban.ir">
-      <img src="https://img.shields.io/badge/Website-mehdi--marzban.ir-4285F4?style=for-the-badge&logo=Google Chrome&logoColor=4285F4" />
-    </a>
-    <a href="http://t.me/mehhdi_marzban">
+    <a href="http://t.me/TheOutcasted">
       <img src="https://img.shields.io/badge/Telegram-@mehhdi__marzban-26A5E4?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
     </a>
-    <a href="http://instagram.com/mehhdi_marzban">
+    <a href="http://instagram.com/7_teacher_8">
       <img src="https://img.shields.io/badge/Instagram-@mehhdi__marzban-FF0069?style=for-the-badge&logo=instagram&logoColor=FF0069" />
     </a>
   </p>
