@@ -12,25 +12,16 @@
 
 <div align="center">
   <p>
-    <img src="https://skillicons.dev/icons?i=js" style="margin: 5px;" />
+    <img src="https://skillicons.dev/icons?i=js,express,laravel" style="margin: 5px;" />
     <img src="https://skillicons.dev/icons?i=typescript" style="margin: 5px;" />
-    <img src="https://skillicons.dev/icons?i=react" style="margin: 5px;" />
-    <img src="https://skillicons.dev/icons?i=nextjs" style="margin: 5px;" />
-    <img src="https://skillicons.dev/icons?i=redux" style="margin: 5px;" />
-    <img src="https://skillicons.dev/icons?i=docker" style="margin: 5px;" />
-    <img src="https://skillicons.dev/icons?i=mongodb" style="margin: 5px;" />
+    <img src="https://skillicons.dev/icons?i=postgres" style="margin: 5px;" />
     <img src="https://skillicons.dev/icons?i=mysql" style="margin: 5px;" />
     <img src="https://skillicons.dev/icons?i=html" style="margin: 5px;" />
     <img src="https://skillicons.dev/icons?i=css" style="margin: 5px;" />
     <img src="https://skillicons.dev/icons?i=sass" style="margin: 5px;" />
     <img src="https://skillicons.dev/icons?i=nodejs" style="margin: 5px;" />
-    <img src="https://skillicons.dev/icons?i=mui" style="margin: 5px;" />
-    <img src="https://skillicons.dev/icons?i=tailwind" style="margin: 5px;" />
     <img src="https://skillicons.dev/icons?i=bootstrap" style="margin: 5px;" />
-    <img src="https://skillicons.dev/icons?i=figma" style="margin: 5px;" />
-    <img src="https://skillicons.dev/icons?i=linux" style="margin: 5px;" />
-    <img src="https://skillicons.dev/icons?i=webpack" style="margin: 5px;" />
-    <img src="https://skillicons.dev/icons?i=git" style="margin: 5px;" />
+    <img src="https://skillicons.dev/icons?i=git,github" style="margin: 5px;" />
     <img src="https://skillicons.dev/icons?i=npm" style="margin: 5px;" />
   </p>
   <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" style="margin: 5px;" />
