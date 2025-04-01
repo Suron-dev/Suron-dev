@@ -13,7 +13,6 @@
 <div align="center">
   <p>
     <img src="https://skillicons.dev/icons?i=js,express,laravel" style="margin: 5px;" />
-    <img src="https://skillicons.dev/icons?i=typescript" style="margin: 5px;" />
     <img src="https://skillicons.dev/icons?i=postgres" style="margin: 5px;" />
     <img src="https://skillicons.dev/icons?i=mysql" style="margin: 5px;" />
     <img src="https://skillicons.dev/icons?i=html" style="margin: 5px;" />
