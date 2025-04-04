@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Mohammad Kolyaie
 
 <div align="center">
-  <img class="giphy-gif-img giphy-img-loaded" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3NrN3lmbmprbmJhc3FobXJ1cXBndGk4cnNsZ2FoaGZ0NXR6YmZ3eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" height="100%" alt="Cat Coding GIF" style="background: unset;">
+  <img class="giphy-gif-img giphy-img-loaded" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3NrN3lmbmprbmJhc3FobXJ1cXBndGk4cnNsZ2FoaGZ0NXR6YmZ3eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width="250" height="250" alt="Cat Coding GIF" style="background: unset;">
 </div>
 
 ## 👨‍💻 About Me 
