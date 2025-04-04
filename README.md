@@ -24,7 +24,6 @@
     <img src="https://skillicons.dev/icons?i=npm" style="margin: 5px;" />
   </p>
   <img src="https://img.shields.io/badge/-REST%20API-00A400?style=for-the-badge&logo=api&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" style="margin: 5px;" />
   <img src="https://img.shields.io/badge/Strapi-2E7C21?style=for-the-badge&logo=strapi&logoColor=white" style="margin: 5px;" />
 </div>
 
@@ -49,7 +48,7 @@
     <a href="https://github.com/suron-dev">
       <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/mehdi-marzban-8851768b">
+    <a href="https://www.linkedin.com/in/mohammad-kolyaie-2b257a359">
       <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:suronKoly@gmail.com">
