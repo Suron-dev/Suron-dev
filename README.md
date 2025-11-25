@@ -57,7 +57,7 @@
     <a href="http://t.me/TheOutcasted">
       <img src="https://img.shields.io/badge/Telegram-@TheOutcasted-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
     </a>
-    <a href="http://instagram.com/7_teacher_8">
+    <a href="http://instagram.com/mohammad_kolyaie">
       <img src="https://img.shields.io/badge/Instagram-@mohammad_kolyaie-FF0069?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
   </p>
